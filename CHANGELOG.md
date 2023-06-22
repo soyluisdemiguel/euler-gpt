@@ -6,3 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+- Solved problem 1
+  - [LANGUAGE FEATURE] Demonstrates using generator expressions, `sum` function, and modulo operator `%` to check for divisibility
+## [Unreleased]
+- Solved problem 2
+  - [ALGORITHM] Demonstrates using a while loop to generate Fibonacci sequence
+  - [LANGUAGE FEATURE] Demonstrates using multiple assignment in Python to swap and simultaneously calculate new terms in the Fibonacci sequence
